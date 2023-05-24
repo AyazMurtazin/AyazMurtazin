@@ -11,11 +11,12 @@ Here are some of the languages and technologies in which I am proficient:
   - MPI
   - OpenMP
   - Qt
-- C#
-  - Entity
+<!-- - C#
+  - Entity -->
 - Python
-  - Qt  
-- Java
+  - Qt 
+  - ML 
+<!-- - Java -->
 - MySQL
 
 ## Contact
