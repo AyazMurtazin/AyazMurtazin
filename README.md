@@ -1,10 +1,13 @@
 # Hi there! :wave:
 
-I'm Ayaz, a software engineer. Welcome to my GitHub profile.
+I'm Ayaz.
+Kazan (Volga region) Federal University.
+Field of study: 01.03.02 - Applied Mathematics and Computer Science.
+Also School21 in progress.
 
 ## Skills
 
-Here are some of the languages and technologies in which I am proficient:
+Stack:
 
 - C
 - C++
