@@ -9,18 +9,18 @@ Also School21 in progress.
 
 Stack:
 
-- C
+- Python
+  - Qt 
+  - ML 
 - C++
   - MPI
   - OpenMP
   - Qt
+- MySQL
+- C
 <!-- - C#
   - Entity -->
-- Python
-  - Qt 
-  - ML 
 <!-- - Java -->
-- MySQL
 
 ## Contact
 
