@@ -16,7 +16,7 @@ Stack:
   - MPI
   - OpenMP
   - Qt
-- MySQL
+- PostgreSQL
 - C
 <!-- - C#
   - Entity -->
