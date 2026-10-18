@@ -4,7 +4,7 @@ I'm Ayaz.
 
 ## Education 
 - Kazan (Volga region) Federal University :mortar_board:
-  - Field of study: 38.04.05 - Business Informatics :construction:
+  - Field of study: 38.04.05 - Business Informatics :white_check_mark:
   - Field of study: 01.03.02 - Applied Mathematics and Computer Science :white_check_mark:
 - School21: Educational project from SBER :white_check_mark:
 
